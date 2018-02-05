@@ -139,10 +139,10 @@ This curated list is on very early stage. So, let's make it together!
    - Based on code-prettify the summernote code highlighting plugin
 
 ## Themes and Skins
-- [summernote-libreicons-theme](https://github.com/DiemenDesign/LibreICONS/tree/master/themes/summernote)
-   - This is an Icon replacement Theme to replace Font Icons, with the SVG Icons by LibreICONS.
 - [summernote-themes](https://github.com/DiemenDesign/summernote-themes)
    - Themes for Summernote (Mainly the Lite version at the moment).
+- [summernote-libreicons-theme](https://github.com/DiemenDesign/LibreICONS/tree/master/themes/summernote)
+   - This is an Icon replacement Theme to replace Font Icons, with the SVG Icons by LibreICONS.
 
 ## Tutorials
 - [https://summernote.org/plugins](https://summernote.org/plugins)
